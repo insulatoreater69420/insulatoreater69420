@@ -63,6 +63,8 @@ var games = {
     "super_street_fighter_2_turbo_revival":"Super Street Fighter II: Turbo Revival",
     "super_street_fighter_3_alpha":"Super Street Fighter III: Alpha",
     "SMW2":"Super Mario World 2",
+    "alink":"The Legend of Zelda: A Link to the Past & Four Swords",
+    "minishcap":"The Legend of Zelda: The Minish Cap",
 };
 var Iodine = null;
 var Blitter = null;
