@@ -36,7 +36,7 @@ var games = {
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "starwars":"Lego Star Wars",
     "mariokart":"Mario Kart: Super Circuit",
-    "superstarsaga":"Mario & Luigi: Superstar Saga",
+    "superstar":"Mario & Luigi: Superstar Saga",
     "mortal_kombat":"Mortal Kombat Advance",
     "mkda":"Mortal Kombat: Deadly Alliance",
     "mother3":"Mother 3",
