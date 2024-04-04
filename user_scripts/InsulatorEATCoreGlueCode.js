@@ -71,6 +71,7 @@ var games = {
     "super_street_fighter_2_turbo_revival":"Super Street Fighter II: Turbo Revival",
     "super_street_fighter_3_alpha":"Super Street Fighter III: Alpha",
     "SMW2":"Super Mario World 2",
+    "phantasia":"Tales of Phantasia",
     "warioland4":"Wario Land 4",
     "megamicrogames":"WarioWare, Inc.: Mega Microgames!",
     "wariowaretwisted":"WarioWare: Twisted!",
